@@ -6,7 +6,7 @@ from base64 import b64encode
 
 member_name = "Yashar Mustafayev"
 member_ncode = "ERV6M2"
-member_token = "1318YzJzUU70GCJa4zmO69F1"
+member_token = ""
 member_email = "yasarmustafayev1998@gmail.com"
 
 def successfull(full_name, neptun_code):
